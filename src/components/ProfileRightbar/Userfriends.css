@@ -1,0 +1,19 @@
+.rightbarFollowing{
+    width:100%;
+    display: flex;
+    flex-direction:column;
+    margin-bottom:20px;
+    cursor:pointer;
+}
+.rightbarFollowingImg{
+    width:100px;
+    height:100px;
+    object-fit:cover;
+    border-radius:5px;
+}
+.rightbarFollowingName{
+    font-weight: 300;
+    font-size:12px;
+    text-align: center;
+    margin-top:5px;
+}
